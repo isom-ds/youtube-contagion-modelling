@@ -82,9 +82,9 @@ ContagionModels_Utils                      → shared utility functions
 
 ## References
 
-[1] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," in *ACIS 2023 Proceedings*, vol. 79, 2023.
+[1] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," in *ACIS 2023 Proceedings*, vol. 79, 2023 [Online]. Available: https://aisel.aisnet.org/acis2023/79.
 
-[2] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," in *PACIS 2024 Proceedings*, vol. 1, 2024.
+[2] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," in *PACIS 2024 Proceedings*, vol. 1, 2024 [Online]. Available: https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/1.
 
 <details>
 <summary>BibTeX</summary>
