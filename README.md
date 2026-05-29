@@ -96,6 +96,7 @@ ContagionModels_Utils                      → shared utility functions
   booktitle = {{ACIS} 2023 {Proceedings}},
   author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
   year      = {2023},
+  url      = {https://aisel.aisnet.org/acis2023/79},
 }
 
 @inproceedings{P2_kok-shun_epidemiology_2024,
@@ -104,6 +105,7 @@ ContagionModels_Utils                      → shared utility functions
   booktitle = {{PACIS} 2024 {Proceedings}},
   author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
   year      = {2024},
+  url      = {https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/1},
 }
 ```
 
