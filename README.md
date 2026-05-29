@@ -10,7 +10,7 @@ Emotion spreads through online communities in ways that mirror infectious diseas
 - **Thesis:** *Epidemiology of Online Emotions* (Kok-Shun, 2026)
 - **Chapter:** Chapter 4 — Emotional Dynamics in Online Communities
 - **Contribution type:** Artefact (contagion modelling pipeline) + Theoretical (epidemiological framing of online emotion)
-- **Associated papers:** "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," ACIS 2023; "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," PACIS 2024
+- **Associated paper:** "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," PACIS 2024
 
 ## Methods
 
@@ -82,23 +82,12 @@ ContagionModels_Utils                      → shared utility functions
 
 ## References
 
-[1] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Can AI Learn to Surf the Wave of Emotions? Modelling Self-Organising Social Media Communities in Financial Crises," in *ACIS 2023 Proceedings*, vol. 79, 2023 [Online]. Available: https://aisel.aisnet.org/acis2023/79.
-
-[2] B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," in *PACIS 2024 Proceedings*, vol. 1, 2024 [Online]. Available: https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/1.
+B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Epidemiology of Online Emotions: Emotion Detection and Contagion Modelling of the FTX Collapse," in *PACIS 2024 Proceedings*, vol. 1, 2024 [Online]. Available: https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/1.
 
 <details>
 <summary>BibTeX</summary>
 
 ```bibtex
-@inproceedings{P1_kok-shun_can_2023,
-  title     = {Can {AI} {Learn} to {Surf} the {Wave} of {Emotions}? {Modelling} {Self}-{Organising} {Social} {Media} {Communities} in {Financial} {Crises}},
-  volume    = {79},
-  booktitle = {{ACIS} 2023 {Proceedings}},
-  author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
-  year      = {2023},
-  url      = {https://aisel.aisnet.org/acis2023/79},
-}
-
 @inproceedings{P2_kok-shun_epidemiology_2024,
   title     = {Epidemiology of {Online} {Emotions}: {Emotion} {Detection} and {Contagion} {Modelling} of the {FTX} {Collapse}},
   volume    = {1},
